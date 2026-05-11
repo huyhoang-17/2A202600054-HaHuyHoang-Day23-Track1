@@ -1,7 +1,7 @@
 # 02 — Case Comparison
 
 **Học viên:** Hà Huy Hoàng — 2A202600054  
-**Nhóm:** [Nhóm Day 23]
+**Nhóm:** [Nhóm HuyHoang17]
 
 ---
 
